@@ -29,16 +29,16 @@ nav:
 social_links:
   -
     icon: github
-    link: http://github.com
+    link: http://github.com/noexpect9
   -
     icon: twitter
     link: /
   -
     icon: weixin
-    link: /
+    link: /about/
   -
     icon: bilibili
-    link: /
+    link: https://space.bilibili.com/661855504?spm_id_from=333.1007.0.0
   -
     icon: google
     link: /
