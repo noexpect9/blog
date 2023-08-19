@@ -16,7 +16,7 @@ direction: ltr
 nav:
   home: /
   articles: /archives/
-  projects: http://github.com/probberechts
+  # projects: http://github.com/probberechts
   about: /about/
 
 
@@ -32,16 +32,16 @@ social_links:
     link: http://github.com/noexpect9
   -
     icon: twitter
-    link: /
+    link: https://twitter.com/blows00817963
   -
     icon: weixin
     link: /about/
   -
     icon: bilibili
     link: https://space.bilibili.com/661855504?spm_id_from=333.1007.0.0
-  -
-    icon: google
-    link: /
+  # -
+  #   icon: youtube
+  #   link: 
 
 
 # Customize the overview with displaying a tagcloud on the index page.
