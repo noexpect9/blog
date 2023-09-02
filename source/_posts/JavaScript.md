@@ -1,5 +1,6 @@
 ---
   title: JavaScript
+  date: '2023-08-19'
 ---
 ## JavaScript
 `补充下之前学习JavaScript的知识,以下笔记出自珠峰or王红元老师,这里非常感谢两位老师！`

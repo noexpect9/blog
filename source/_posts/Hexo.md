@@ -1,5 +1,6 @@
 ---
-title: zzd's blog
+  title: zzd's blog
+  date: '2023-08-15'
 ---
 
 - 最近使用Hexo搭建一个私人博客,用于记录生活与工作中发生的乐趣.之前使用过VuePress静态建站系统,后来升级为VitePress,时间忙碌,不得不放弃了.

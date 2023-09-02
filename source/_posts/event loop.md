@@ -1,6 +1,6 @@
 ---
   title: Event Loop
-  date: {{ date }}
+  date: '2023-09-03'
   updated: {{ date }}
 ---
 ## 事件循环
