@@ -108,5 +108,3 @@ theme_config:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-# updated_option: "mtime"
- updated_option: "date"
