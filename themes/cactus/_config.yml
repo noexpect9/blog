@@ -56,7 +56,7 @@ tags_overview: true
 posts_overview:
   show_all_posts: true
   post_count: 5
-  sort_updated: true
+  sort_updated: false
 
 # Customize the archive view.
 # Options:
@@ -70,7 +70,7 @@ archive:
 # Options:
 #   - show_updated: show the last modification date.
 post:
-  show_updated: true
+  show_updated: false
 
 # Customize the copyright years
 # Note: if start_year/end_year not provided, will use current year.
