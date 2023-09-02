@@ -272,10 +272,10 @@ const curring = function curring() {
 	return add
 }
 ```
-​
+
 compose函数(函数合成)
 在函数式编程当中有一个很重要的概念就是函数组合,实际上就是把处理数据的函数像管道一样连接起来,然后让数据穿过管道得到最终的结果
-```js
+```javascript
 const add = x=>x+1
 const mul = x=>x*3
 const div = x=>x/2
@@ -290,4 +290,3 @@ const compose =  function compose(...funcs) {
 	}
 }
 ```
-​
