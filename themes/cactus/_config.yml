@@ -56,7 +56,7 @@ tags_overview: true
 posts_overview:
   show_all_posts: true
   post_count: 5
-  sort_updated: false
+  sort_updated: true
 
 # Customize the archive view.
 # Options:
