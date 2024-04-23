@@ -13,7 +13,7 @@
       + 在Developer Settings中找到Personal Access Tokens
       + 在Personal Access Tokens中Generate New Token(classic)
 
-  ![alt text](./image.png)
+  {% img /assets/image.png %}
   4.  将生成的tokens复制到对应仓库的settings中的Secret and Variables中的Repository secrets
   5.  然后在项目的根目录新建.github/workflows/ci.yml里面参数可以参考[github actions doc](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
   ```yaml
