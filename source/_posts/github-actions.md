@@ -1,5 +1,5 @@
----
   title: Github actions
+  date: 2024-04-23
 ---
 ## 使用github actions构建并部署
 
