@@ -45,14 +45,14 @@ jobs:
   ```
   6.  当我们将代码推送到github仓库时，会自动触发github actions，在Actions操作页可以查看到构建的状态
    
-  ![alt text](./image-1.png)
+  {% img /assets/image-1.png %}
 
   7.  构建成功之后会触发github pages，需要在settings中设置pages，在项目首页打开Deployments就可以看到线上项目
    
-  ![alt text](./image-2.png)
-  ![alt text](./image-3.png)
+  {% img /assets/image-2.png %}
+  {% img /assets/image-3.png %}
 
   这里使用的是vite创建的react的项目，当使用vite构建时，默认打包的不是跟目录，需要配置下基础地址，因为github pages找的是root下的目录
-  ![alt text](./image-4.png)
+  {% img /assets/image-4.png %}
 
   
